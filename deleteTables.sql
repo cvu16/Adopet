@@ -1,0 +1,12 @@
+drop table if exists pets;
+drop table if exists accounts;
+drop table if exists owner;
+drop table if exists adopter;
+drop table if exists preferences;
+drop table if exists savedPets;
+drop table if exists species;
+drop table if exists breed;
+drop table if exists temperament;
+drop table if exists goodWith;
+drop table if exists shelter;
+drop table if exists media;
